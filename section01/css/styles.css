@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+}
+body {
+    display: grid;
+    place-items: center;
+}
+.text-red {
+    font-size: 20px;
+    color: red;
+}
+.text-green {
+    color: green;
+}
+.text-blue {
+    font-size: 20px;
+    color: blue;
+}
+button {
+    width: 150px;
+    height: 80px;
+}
